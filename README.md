@@ -1,4 +1,4 @@
-
+<p  align="center"><img src = "https://github.com/sohailkbr6/sohailkbr6/blob/main/intro.gif"></p>
 
 Hi 👋 My name is Sohail Ahmed
 =====================
