@@ -15,6 +15,8 @@ Python Programmer and Ethical Hacker
 * 👨‍💻 Working as Digital Forensics Investigator
 * 🤝  I'm open to collaborating on Python Scripting & Digital Forensics
 
+<img align="right" alt="GIF" src="https://github.com/sohailkbr6/sohailkbr6/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ### Skills
 
 This is sohailkbr6
@@ -26,7 +28,7 @@ This is sohailkbr6
 </p>
 
 ### Socials
-<img align="right" alt="GIF" src="https://github.com/sohailkbr6/sohailkbr6/blob/main/code.gif?raw=true" width="500" height="320" />
+
 <p align="left"> <a href="https://www.github.com/sohailkbr6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/sohailkbr6" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 </a></p>
