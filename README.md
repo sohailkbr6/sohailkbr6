@@ -1,7 +1,10 @@
 <p  align="center"><img src = "https://github.com/sohailkbr6/sohailkbr6/blob/main/intro.gif"></p>
 
-Hi 👋 My name is Sohail Ahmed
-=====================
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+==================================
+
+[![Linkedin Badge](https://img.shields.io/badge/-sohailkbr6-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohailkbr6/)](https://www.linkedin.com/in/sohailkbr6/) [![Facebok Badge](https://img.shields.io/badge/-sohailkbr6-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://web.facebook.com/sohailkbr6/)](https://web.facebook.com/sohailkbr6)
+[![Gmail Badge](https://img.shields.io/badge/-sohailahmedsak4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohailahmedsak4@gmail.com)](mailto:sohailahmedsak4@gmail.com)
 
 Python Programmer and Ethical Hacker
 ------------------------------------
@@ -10,7 +13,6 @@ Python Programmer and Ethical Hacker
 
 * 🎓 I'm a Computer Science' student at University of Sindh Jamshoro
 * 🌍  Based in Hyderabad, Sindh, Pakistan
-* 🖥️  See my portfolio at [Website](Not Available)
 * ✉️  You can contact me at [Mail](sohailahmedsak4@gmail.com)
 * 👨‍💻 Working as Digital Forensics Investigator
 * 🤝  I'm open to collaborating on Python Scripting & Digital Forensics
